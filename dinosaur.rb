@@ -1,4 +1,4 @@
-require "rspec"
+require "rspec/autorun"
 
 class	Dinosaur
 	def initialize(options = {})
